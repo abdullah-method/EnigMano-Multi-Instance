@@ -22,7 +22,7 @@ Together, **EnigMano** embodies *“The Hand of Mystery”* — a silent guardia
 This GitHub Actions workflow automates deploying **EnigMano** instances — Windows fortress environments orchestrated with stealth and precision.  
 Trigger it manually, input your **instance number**, and let the silent hand execute the mission. ✋🌀
 
-A demo video of this project can be accessed here: https://bit.ly/Free-RDP-V2
+Visit This Website Engoy Free Premium Stuf  https://abdullah.nyc.mn/
 
 ---
 
@@ -32,7 +32,7 @@ A demo video of this project can be accessed here: https://bit.ly/Free-RDP-V2
 |---------------------------|----------------------------------------------------------|
 | Workflow Trigger          | Manual, enter **INSTANCE** number ✋                      |
 | Runner                    | Windows (`windows-latest`) 💻                              |
-| Secrets Required          | `SECRET_SHAHZAIB`, `NGROK_SHAHZAIB` 🔐                   |
+| Secrets Required          | `SECRET_ABDULLAH`, `NGROK_ABDULLAH` 🔐                   |
 | Chrome Profiles           | 5 isolated desktop profiles 🖥️                              |
 | Chrome Extensions         | WebRTC Protect 🛡️, Video Quality Settings 🎥, Random YouTube Video 🎲, Proton VPN 🔒, Stop Autoplay Next ⏹️, YouTube Nonstop 🔁, uBlock Origin 🚫, Ghostery 👻, Tab Auto Refresh 🔄 |
 | Mission Duration          | 340 minutes ⏱️ (330 → Relay Trigger, 335 → Shutdown)     |
@@ -61,8 +61,8 @@ A demo video of this project can be accessed here: https://bit.ly/Free-RDP-V2
 
 - Runner: **windows-latest** (Windows environment) 🖥️  
 - GitHub secrets configured:  
-  - `SECRET_SHAHZAIB` 🔑  
-  - `NGROK_SHAHZAIB` 🌐  
+  - `SECRET_ABDULLAH` 🔑  
+  - `NGROK_ABDULLAH` 🌐  
 
 ---
 
@@ -75,7 +75,7 @@ A demo video of this project can be accessed here: https://bit.ly/Free-RDP-V2
 
 ## 🙌 Credits 🛡️
 
-Built & maintained by **SHAHZAIB-YT** — powering your fortress with tactical precision. 🔋  
+Built & maintained by **[ABDULLAH CODED](https://abdullahcoded.blogspot.com/)** — powering your fortress with tactical precision. 🔋  
 
 ---
 
